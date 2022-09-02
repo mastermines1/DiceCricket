@@ -1,0 +1,17 @@
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\obj\Debug\net6.0-windows\DiceCricket.vbproj.AssemblyReference.cache
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\obj\Debug\net6.0-windows\DiceCricket.frmDiceCricket.resources
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\obj\Debug\net6.0-windows\DiceCricket.vbproj.GenerateResource.cache
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\obj\Debug\net6.0-windows\DiceCricket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\obj\Debug\net6.0-windows\DiceCricket.AssemblyInfoInputs.cache
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\obj\Debug\net6.0-windows\DiceCricket.AssemblyInfo.vb
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\obj\Debug\net6.0-windows\DiceCricket.vbproj.CoreCompileInputs.cache
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\bin\Debug\net6.0-windows\DiceCricket.exe
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\bin\Debug\net6.0-windows\DiceCricket.deps.json
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\bin\Debug\net6.0-windows\DiceCricket.runtimeconfig.json
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\bin\Debug\net6.0-windows\DiceCricket.dll
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\bin\Debug\net6.0-windows\DiceCricket.pdb
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\obj\Debug\net6.0-windows\DiceCricket.dll
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\obj\Debug\net6.0-windows\refint\DiceCricket.dll
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\obj\Debug\net6.0-windows\DiceCricket.pdb
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\obj\Debug\net6.0-windows\DiceCricket.genruntimeconfig.cache
+C:\Users\Miles_Campbell\source\repos\Dice Cricket\DiceCricket\obj\Debug\net6.0-windows\ref\DiceCricket.dll
